@@ -1,5 +1,7 @@
 # @autoposter/mcp
 
+<a href="https://glama.ai/mcp/servers/autoposterai/mcp"><img width="380" height="200" src="https://glama.ai/mcp/servers/autoposterai/mcp/badges/card.svg" alt="Auto Poster AI MCP server" /></a>
+
 Official Model Context Protocol (MCP) server for [Auto Poster AI](https://autoposter.ai) — the automated social media publishing platform for X, LinkedIn, Instagram, TikTok, YouTube, Pinterest, Threads, Facebook, and Bluesky.
 
 Connects Cursor, Windsurf, Claude Desktop, and AI coding agents directly to your Auto Poster AI workspace.
